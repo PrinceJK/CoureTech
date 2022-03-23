@@ -1,0 +1,16 @@
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\bin\Debug\net5.0\Algothm Challenge.exe
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\bin\Debug\net5.0\Algothm Challenge.deps.json
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\bin\Debug\net5.0\Algothm Challenge.runtimeconfig.json
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\bin\Debug\net5.0\Algothm Challenge.runtimeconfig.dev.json
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\bin\Debug\net5.0\Algothm Challenge.dll
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\bin\Debug\net5.0\ref\Algothm Challenge.dll
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\bin\Debug\net5.0\Algothm Challenge.pdb
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\obj\Debug\net5.0\Algothm Challenge.csproj.AssemblyReference.cache
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\obj\Debug\net5.0\Algothm Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\obj\Debug\net5.0\Algothm Challenge.AssemblyInfoInputs.cache
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\obj\Debug\net5.0\Algothm Challenge.AssemblyInfo.cs
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\obj\Debug\net5.0\Algothm Challenge.csproj.CoreCompileInputs.cache
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\obj\Debug\net5.0\Algothm Challenge.dll
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\obj\Debug\net5.0\ref\Algothm Challenge.dll
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\obj\Debug\net5.0\Algothm Challenge.pdb
+C:\Users\jkehinde\source\repos\COURE Technologies Assessment\Algothm Challenge\obj\Debug\net5.0\Algothm Challenge.genruntimeconfig.cache

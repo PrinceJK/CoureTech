@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algothm Challenge", "Algothm Challenge\Algothm Challenge.csproj", "{F5E5EEDC-4B38-490C-B468-5A9ECE095A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API Challenge", "API Challenge\API Challenge.csproj", "{D6B6A61F-FE78-447D-9F9F-C39695EF763A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E5EEDC-4B38-490C-B468-5A9ECE095A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E5EEDC-4B38-490C-B468-5A9ECE095A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E5EEDC-4B38-490C-B468-5A9ECE095A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E5EEDC-4B38-490C-B468-5A9ECE095A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B6A61F-FE78-447D-9F9F-C39695EF763A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B6A61F-FE78-447D-9F9F-C39695EF763A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B6A61F-FE78-447D-9F9F-C39695EF763A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B6A61F-FE78-447D-9F9F-C39695EF763A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DEE2883-733B-4CA8-838A-F9F03945A8F0}
+	EndGlobalSection
+EndGlobal
